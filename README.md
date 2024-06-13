@@ -1,9 +1,10 @@
 <div align="center">
       <center><h1>Tokenizer project</h1></center>
-    <img src="https://github.com/ThePush/tokenizer/assets/91064070/40a6db12-188c-4c9c-b727-64e626a6152a" width="500" height="500">
+    <img src="https://github.com/ThePush/tokenizer/assets/91064070/e9414af9-5d6f-468f-b23d-4c3fcc8d2a17" width="500" height="500">
       <center><h1>42 CringeLord</h1></center>
         <center><h1>Build your own token</h1></center>
 </div>
+
 
 ## Implementation choices
 
